@@ -14,6 +14,7 @@ namespace _250320_GitTest
             string input = Console.ReadLine();
 
             Console.WriteLine("당신의 이름은 {0}입니다.", input);
+            Console.WriteLine("새로운 기능 추가!");
         }
     }
 }
